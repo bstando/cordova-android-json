@@ -15,6 +15,9 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "lab.bartosz.android.caj"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "lab.bartosz.android.caj"
         }
     },
     "dependent_plugins": {}
